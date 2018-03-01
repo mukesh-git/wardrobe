@@ -1,0 +1,13 @@
+/app/src/main/res/values/strings.xml
+.gradle
+local.properties
+.idea
+.DS_Store
+build/
+Volley
+facebook
+app/app.iml
+/pe-android-studio.iml
+
+# Keystore File
+*.keystore

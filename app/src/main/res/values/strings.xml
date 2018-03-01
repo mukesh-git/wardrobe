@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wardrobe</string>
+    <string name="dialog_permissions">Permission</string>
+    <string name="dialog_permission_storage">Need permission to access gallery</string>
+    <string name="dialog_permission_camera">Need camera permission</string>
+    <string name="dialog_permission_camera_storage">Need camera and storage permission</string>
+    <string name="dialog_got_sto_settings">Go to settings</string>
+    <string name="cancel">Cancel</string>
+</resources>
