@@ -1,1 +1,3 @@
 Wardrobe is an app that suggests you combinations of clothes for daily wear. The home screen is divided into two sections, each displaying a shirt (top) and a pair of trousers (bottoms). You can add more shirts or pants by clicking on the ‘+’ button on the right corner of each section. You can also swipe left and right each section if you don’t like the shirt or pants. In the centre, there's a 'shuffle’ button. On its right is a ‘favourite’ button if you like an outfit combination. The screens can be vertical or horizontal, depending on the portrait or landscape support.
+
+This application is developed on MVVM architecture using Android architectural components and databinding.
